@@ -1,0 +1,43 @@
+{
+  "GKZ100398": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marco Pellegrini, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Hubert Heilmeier, Bayerwaldstraße 54, 84030 Landshut, Deutschland",
+    "price": "6.000 €",
+    "description": "Hersteller: Kawasaki <br>Typ: Z1B  <br> Fahrgestelnummer: Z1F79800 <br> Erstzulassung: 07/1977 <br> KM laut Vorbesitzer: 73.623 km <br>Leistung: 60 kW (82 PS) <br>Hubraum: 903 cm³<br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 3 <br> Deutsche Zulassung <br> Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Hubert Heilmeier <br>Bayerwaldstraße 54<br>84036 Landshut<br>Deutschland<br>Telefon:+491749868177",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-01-2026",
+    "deliveryDate": "05-02-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Schmerlenweg 11",
+      "postal_code": "84030",
+      "city": "Landshut",
+      "country": "Deutschland"
+    }
+  }
+}
